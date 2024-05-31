@@ -18,8 +18,8 @@ export default Layout;
 const StLayout = styled.div`
   display: flex;
   width: 100vw;
-  flex-direction: column;
   height: 100vh;
+  flex-direction: column;
   overflow-x: hidden;
 `;
 
